@@ -3,7 +3,7 @@
 
 ## 🧪 Projects
 
-### 1️⃣ Lab1
+### 1️⃣ Lab2
 **Objective:** Practice creating classes, objects, and using packages in Java.
 
 **Structure:**
