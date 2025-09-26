@@ -3,7 +3,7 @@
 
 ## 🧪 Projects
 
-### 1️⃣ Lab2
+### 1️⃣ Lab 2
 **Objective:** Practice creating classes, objects, and using packages in Java.
 
 **Structure:**
@@ -18,32 +18,30 @@ laboratorio2/lab2/src/
 
 
 **Link to Main File:**
-[Main.java](https://github.com/TK-FUISTELS154/laboratorio-2/blob/main/laboratorio2/src/App.java)
+[Main.java](https://github.com/TK-FUISTELS154/laboratorio-2/blob/main/laboratorio2/lab2/src/App.java)
 
 
 ---
 
-### 2️⃣ Practica1
+### 2️⃣ Practica 2
 
 **Objective:** Practice courses and professors in Java, including displaying images.
 
 **Structure:**
 
 ```
-laboratorio1/practica1/src/
-└─ edu/uatf/tp2/lab1/
-   ├─ course/
-   │  ├─ Professor.java
-   │  └─ Course.java
-   ├─ Corrida.png
-   └─ Main.java
+laboratorio 2/practica 2/src/
+└─ src/
+ ├── App.java
+ ├── Menu.java
+ └── NotaManager.java
 ```
 
 **Link to Main File:**
-[Main.java](https://github.com/TK-FUISTELS154/Laboratorio-1-/blob/main/laboratorio1/practica1/src/edu/uatf/tp2/lab1/Main.java)
+[Main.java](https://github.com/TK-FUISTELS154/laboratorio-2/blob/main/laboratorio2/tarea%202/src/App.java)
 
 **Example Image:**
-![Corrida](https://github.com/TK-FUISTELS154/Laboratorio-1-/blob/main/laboratorio1/practica1/src/edu/uatf/tp2/lab1/Corrida.png?raw=true)
+![Corrida](https://github.com/TK-FUISTELS154/laboratorio-2/blob/main/image.png?raw=true)
 
 ---
 
